@@ -1,7 +1,7 @@
 # lab02-chanchanmao
 
 * Javadoc: https://ucsb-cs56-w20.github.io/lab02-chanchanmao/
-* Repo: https://ucsb-cs56-w20/lab02-chanchanmao
+* Repo: https://github.com/ucsb-cs56-w20/lab02-chanchanmao
 
 # About this repo
 
