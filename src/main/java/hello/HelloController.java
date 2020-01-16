@@ -12,6 +12,7 @@ public class HelloController {
         "<p>This web app is powered by \n" +
         "<a href='https://github.com/ucsb-cs56-w20/lab02-chanchanmao'>this github repo</a></p>\n";
         return html;
+        // return "Greetings from Spring Boot!";
     }
     
     
